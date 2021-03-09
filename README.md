@@ -1,6 +1,7 @@
 # 👋 Hi! Welcome to Donald's GitHub
 
-- 🏫  I'm a 2nd year student attending Western University 
+##### `./Donald -h`
+- 🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
 - 🔍  Focus on web development
 - 👨‍💻‍ Pursuing a career in Full Stack Developer
 - 🔨 Currently working on a collaboration startup https://aesclub1.com
