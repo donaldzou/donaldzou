@@ -1,6 +1,6 @@
 # 👋 Hi! Welcome to Donald's GitHub
 
-##### `./Donald -h`
+#### `./Donald -h`
 - 🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
 - 🔍  Focus on web development
 - 👨‍💻‍ Pursuing a career in Full Stack Developer
