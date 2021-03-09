@@ -6,7 +6,7 @@
 - 🔨 Currently working on a collaboration startup https://aesclub1.com
 - 📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
 
-**☀️ Wish you have a good day!**
+**☀️ Wish you have a good day! And checkout some of my personal project :arrow_down: down below if you're interested!**
 <!--
 **donaldzou/donaldzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
