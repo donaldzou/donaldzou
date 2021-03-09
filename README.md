@@ -1,5 +1,12 @@
-### Hi there 👋
+# 👋 Hi! Welcome to Donald's GitHub
 
+- 🏫  I'm a 2nd year student attending Western University 
+- 🔍  Focus on web development
+- 👨‍💻‍ Pursuing a career in Full Stack Developer
+- 🔨 Currently working on a collaboration startup https://aesclub1.com
+- 📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
+
+**☀️ Wish you have a good day!**
 <!--
 **donaldzou/donaldzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
