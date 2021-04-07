@@ -1,11 +1,15 @@
 # 👋 Hi! Welcome to Donald's GitHub
 
 #### `./Donald --help`
-- 🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
-- 🔍  Focus on web development
-- 👨‍💻‍ Pursuing a career in Full Stack Developer
-- 🔨 Currently working on a collaboration startup https://aesclub1.com
-- 📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
+🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
+
+🔍  Focus on web development
+
+👨‍💻‍ Pursuing a career in Full Stack Developer
+
+🔨 Currently working on a collaboration startup https://aesclub1.com
+
+📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
 
 #### `./Donald --code`
 
