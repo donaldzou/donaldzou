@@ -9,6 +9,6 @@
 
 #### `./Donald --code`
 
-<img src="https://wakatime.com/share/@donaldzou/976551b0-d39d-4891-a6b7-a1874258d415.svg" width="75%" style="text-align: center"></img>
+[![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldzou)](https://github.com/donaldzou/)
 
 **☀️ Wish you have a good day! And checkout some of my personal project :arrow_down: down below if you're interested!**
