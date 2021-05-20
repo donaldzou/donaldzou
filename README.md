@@ -1,6 +1,6 @@
 # 👋 Hi! Welcome to Donald's GitHub
 
-#### `./Donald --help`
+#### `./donald --help`
 🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
 
 🔍  Focus on web development
@@ -11,7 +11,7 @@
 
 📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
 
-#### `./Donald --code`
+#### `./donald --code`
 
 [![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldzou)](https://github.com/donaldzou/)
 
