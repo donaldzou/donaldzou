@@ -9,7 +9,7 @@
 
 🔨 Currently working on a collaboration startup https://aesclub1.com
 
-📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
+📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a> or come visit to my <a href="donaldzou.github.io">Website</a>!
 
 #### `./donald --code`
 
