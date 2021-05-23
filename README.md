@@ -9,8 +9,9 @@
 
 🔨 Currently working on a collaboration startup https://aesclub1.com
 
-📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a> or come visit to my <a href="donaldzou.github.io">Website</a>!
+🧋 Come visit my website <a href="https://donaldzou.github.io">https://donaldzou.github.io</a>!
 
+📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
 #### `./donald --code`
 
 [![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldzou)](https://github.com/donaldzou/)
