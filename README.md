@@ -13,10 +13,11 @@
 
 📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
 #### `./donald --code`
+[![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldzou&theme=dark&show_icons=true)](https://github.com/donaldzou/)
 
-[![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldzou)](https://github.com/donaldzou/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldzou&theme=dark)](https://github.com/donaldzou)
 
-[![Donald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donaldzou&layout=compact)](https://github.com/donaldzou/)
+[![Donald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donaldzou&theme=dark)](https://github.com/donaldzou/)
 
 
 **☀️ Wish you have a good day! And checkout some of my personal project :arrow_down: down below if you're interested!**
