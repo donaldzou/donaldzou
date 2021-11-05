@@ -19,5 +19,8 @@
 
 [![Donald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donaldzou&theme=dark)](https://github.com/donaldzou/)
 
+If you are looking for a new server, click on the button below and register with DigitalOcean, you will receive $100 60-days credit to your next cool project!
+
+<a href="https://www.digitalocean.com/?refcode=a84cb9aac585&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 **☀️ Wish you have a good day! And checkout some of my personal project :arrow_down: down below if you're interested!**
