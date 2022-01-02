@@ -1,5 +1,5 @@
 # 👋 Hi! Welcome to Donald's GitHub
-
+[![wakatime](https://wakatime.com/badge/user/45f53c7c-9da9-4cb0-85d6-17bd38cc748b.svg)](https://wakatime.com/@45f53c7c-9da9-4cb0-85d6-17bd38cc748b)
 #### `./donald --help`
 🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
 
