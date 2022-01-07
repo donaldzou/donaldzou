@@ -13,9 +13,22 @@
 
 📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
 #### `./donald --code`
-[![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=donaldzou&theme=dark&show_icons=true)](https://github.com/donaldzou/)
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px" align="left"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldzou&theme=dark)](https://github.com/donaldzou)
+
+
+</br>
+</br>
 
 [![Donald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donaldzou&theme=dark)](https://github.com/donaldzou/)
 
