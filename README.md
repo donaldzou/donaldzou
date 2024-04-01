@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=079DF7&multiline=true&width=500&height=150&lines=.%2Fdonald+--sayHi;Hi!+This+is+Donald.;Welcome+to+my+GitHub+page!;Wish+you+have+a+great+day!)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/user/45f53c7c-9da9-4cb0-85d6-17bd38cc748b.svg)](https://wakatime.com/@45f53c7c-9da9-4cb0-85d6-17bd38cc748b)
+[![wakatime](https://wakatime.com/badge/user/45f53c7c-9da9-4cb0-85d6-17bd38cc748b.svg)](https://wakatime.com/@45f53c7c-9da9-4cb0-85d6-17bd38cc748b) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonaldzou%2F&count_bg=%235790EF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### `./donald --help`
 🏫  Studying Computer Science in <a href="https://uwo.ca">Western University </a>
 
