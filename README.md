@@ -8,7 +8,7 @@
 
 👨‍💻‍ Pursuing a career in Full Stack Developer
 
-🔨 Currently working @ Scotiabank & personal project [WGDashboard](https://github.com/donaldzou/WGDashboard)
+🔨 Currently working on my personal project [WGDashboard](https://github.com/donaldzou/WGDashboard)
 
 🧋 Come visit my website <a href="https://donaldzou.github.io">https://donaldzou.github.io</a>!
 
