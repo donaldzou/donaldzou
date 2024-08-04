@@ -12,7 +12,7 @@
 
 🧋 Come visit my website <a href="https://donaldzou.github.io">https://donaldzou.github.io</a>!
 
-📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a>
+📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a> or you're more than welcome to connect me throught <a href="https://www.linkedin.com/in/donaldzou/">LinkedIn</a>! 
 #### `./donald --code`
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>
